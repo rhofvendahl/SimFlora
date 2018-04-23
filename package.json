@@ -1,0 +1,16 @@
+{
+  "name": "waltre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint js/*.js",
+    "fix": "eslint --fix js/*.js"
+  },
+  "keywords": [],
+  "author": "russell hofvendahl",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  }
+}
